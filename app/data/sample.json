@@ -1,0 +1,380 @@
+[
+    {
+        "content": "Does Company have a Network Diagram showing firewalls in place to separate networks they can share?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~50a42721-a8ac-4192-8f0d-8ad108c76444~questionnaire_import_template (5).csv~6",
+        "createdAt": "2023-08-31T21:01:05.000Z",
+        "modifiedAt": "2023-10-20T12:40:52.000Z",
+        "answer": "Yes, we do have a Network Diagram showing firewalls in place to separate networks. Please verify the comment below to see what the specifics are and if we actually follow this to the satisfaction of your guidelines. We need to clarify more but this is a good basic level of understanding.",
+        "comment": "A Network Diagram showing segmentation is available for download from the Trust Center under Documents at security.company.com. We also take this deeply seriously and struggle to make sure that this is always working. Please bear with us as we work through making the updates necessary for these aspects. We need to keep balancing the efforts to find the best path forward and work through the challenges to find out the balance of how we proceed forward based on the aspects of bet intent. We swear we are working on this and not just vamping for the purpose of testing long messages ",
+        "pageNumber": null,
+        "questionNumber": 6,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": true,
+        "accessLevel": "private",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "What were the results of the Company's latest pen test, and what remediation was done?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~50a42721-a8ac-4192-8f0d-8ad108c76444~questionnaire_import_template (5).csv~5",
+        "createdAt": "2023-08-31T21:01:05.000Z",
+        "modifiedAt": "2023-08-31T21:01:05.000Z",
+        "answer": null,
+        "comment": "Company does not share this type of detailed and/or sensitive evidence for routine vendor due diligence assessments. This evidence has been provided to our external auditors for SOC 2 Type 2 and ISO 27001. The audit reports that are available under NDA at our Company Security Hub (security.company.com) are a testament to the implementation and effectiveness of this control in the Company environment.",
+        "pageNumber": null,
+        "questionNumber": 5,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": true,
+        "accessLevel": "private",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "Does Company have an Incident Response Program?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~50a42721-a8ac-4192-8f0d-8ad108c76444~questionnaire_import_template (5).csv~4",
+        "createdAt": "2023-08-31T21:01:05.000Z",
+        "modifiedAt": "2023-08-31T21:01:05.000Z",
+        "answer": "Yes, we have a dedicated incident response plan in place that is tested, reviewed and updated at least once a year.",
+        "comment": null,
+        "pageNumber": null,
+        "questionNumber": 4,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "public",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "Does Company encrypt data in transit and at rest?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~50a42721-a8ac-4192-8f0d-8ad108c76444~questionnaire_import_template (5).csv~3",
+        "createdAt": "2023-08-31T21:01:05.000Z",
+        "modifiedAt": "2023-08-31T21:01:05.000Z",
+        "answer": "Yes",
+        "comment": "Data in transit are encrypted using standard Transport Layer Security (TLS 1.2). Data at rest are encrypted using 256-bit Advanced Encryption Standard (AES-256). Database backups are encrypted at rest as well.",
+        "pageNumber": null,
+        "questionNumber": 3,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "public",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "What percentage of the Company shareholders identify as a minority?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~50a42721-a8ac-4192-8f0d-8ad108c76444~questionnaire_import_template (5).csv~2",
+        "createdAt": "2023-08-31T21:01:05.000Z",
+        "modifiedAt": "2023-08-31T21:01:05.000Z",
+        "answer": null,
+        "comment": "As a VC-backed private company, we do not disclose this information.",
+        "pageNumber": null,
+        "questionNumber": 2,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "internal",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "Does Company give employees time off to vote?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~50a42721-a8ac-4192-8f0d-8ad108c76444~questionnaire_import_template (5).csv~1",
+        "createdAt": "2023-08-31T21:01:05.000Z",
+        "modifiedAt": "2023-08-31T21:01:05.000Z",
+        "answer": "Yes, we give employees time off to vote.",
+        "comment": null,
+        "pageNumber": null,
+        "questionNumber": 1,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "internal",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "Does company have career managers for engineers?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~e96fd533-6a17-44cd-8ca4-afe42f6d88cc~questionnaire_import_template.csv~2",
+        "createdAt": "2023-06-23T20:08:00.000Z",
+        "modifiedAt": "2023-08-14T16:33:46.000Z",
+        "answer": "We’re working on implementing this.",
+        "comment": "As our teams have grown, the role of EM is a new one at our company.",
+        "pageNumber": null,
+        "questionNumber": 2,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "public",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "Does company have mandatory team building??",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~e96fd533-6a17-44cd-8ca4-afe42f6d88cc~questionnaire_import_template.csv~1",
+        "createdAt": "2023-06-23T20:08:00.000Z",
+        "modifiedAt": "2023-08-09T20:31:53.000Z",
+        "answer": "Yes, on a weekly basis",
+        "comment": "",
+        "pageNumber": null,
+        "questionNumber": 1,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "internal",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "What do you even do?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~6caa5e11-82cc-475b-acbf-4396d7681bd4~questionnaire_import_template.csv~1",
+        "createdAt": "2023-06-21T15:43:59.000Z",
+        "modifiedAt": "2023-08-18T19:15:56.000Z",
+        "answer": "Stuff!",
+        "comment": "This is an incredible answer",
+        "pageNumber": null,
+        "questionNumber": 1,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "internal",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "What were the results of the Company's latest pen test, and what remediation was done?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~6573097e-7587-4272-a619-a22f999589e0~questionnaire_import_template.csv~5",
+        "createdAt": "2023-06-21T15:41:58.000Z",
+        "modifiedAt": "2023-06-21T15:41:58.000Z",
+        "answer": null,
+        "comment": "Company does not share this type of detailed and/or sensitive evidence for routine vendor due diligence assessments. This evidence has been provided to our external auditors for SOC 2 Type 2 and ISO 27001. The audit reports that are available under NDA at our Company Security Hub (security.company.com) are a testament to the implementation and effectiveness of this control in the Company environment.",
+        "pageNumber": null,
+        "questionNumber": 5,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "private",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "Does Company have an Incident Response Program?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~6573097e-7587-4272-a619-a22f999589e0~questionnaire_import_template.csv~4",
+        "createdAt": "2023-06-21T15:41:58.000Z",
+        "modifiedAt": "2023-06-21T20:54:45.000Z",
+        "answer": "Yes, we have a dedicated incident response plan in place that is tested, reviewed and updated at least once a year.",
+        "comment": "",
+        "pageNumber": null,
+        "questionNumber": 4,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "public",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "Does Company encrypt data in transit and at rest?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~6573097e-7587-4272-a619-a22f999589e0~questionnaire_import_template.csv~3",
+        "createdAt": "2023-06-21T15:41:58.000Z",
+        "modifiedAt": "2023-06-21T15:41:58.000Z",
+        "answer": "Yes",
+        "comment": "Data in transit are encrypted using standard Transport Layer Security (TLS 1.2). Data at rest are encrypted using 256-bit Advanced Encryption Standard (AES-256). Database backups are encrypted at rest as well.",
+        "pageNumber": null,
+        "questionNumber": 3,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "public",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "What percentage of the Company shareholders identify as a minority?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~6573097e-7587-4272-a619-a22f999589e0~questionnaire_import_template.csv~2",
+        "createdAt": "2023-06-21T15:41:58.000Z",
+        "modifiedAt": "2023-06-21T15:41:58.000Z",
+        "answer": null,
+        "comment": "As a VC-backed private company, we do not disclose this information.",
+        "pageNumber": null,
+        "questionNumber": 2,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "internal",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    },
+    {
+        "content": "Does Company give employees time off to vote?",
+        "id": "8f3d94b4-b290-4484-9d47-16690823cbf9~6573097e-7587-4272-a619-a22f999589e0~questionnaire_import_template.csv~1",
+        "createdAt": "2023-06-21T15:41:58.000Z",
+        "modifiedAt": "2023-06-21T15:41:58.000Z",
+        "answer": "Yes, we give employees time off to vote.",
+        "comment": null,
+        "pageNumber": null,
+        "questionNumber": 1,
+        "product": null,
+        "products": [
+            {
+                "id": "--global--"
+            }
+        ],
+        "isFavorite": false,
+        "accessLevel": "internal",
+        "source": "questionnaire",
+        "subtype": {
+            "raw": [
+                "Custom"
+            ],
+            "pretty": [
+                "Custom"
+            ]
+        }
+    }
+]
