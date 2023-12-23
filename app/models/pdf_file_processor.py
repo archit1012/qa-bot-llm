@@ -1,7 +1,7 @@
 # from langchain.schema import StrOutputParser
 # from langchain_core.runnables import RunnablePassthrough
 from langchain.document_loaders import PyPDFLoader, JSONLoader
-from langchain.document_loaders import DirectoryLoader
+# from langchain.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from models.file_processor import FileProcessor
 # import faiss

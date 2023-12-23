@@ -4,3 +4,7 @@
 modules.xml
 .idea/
 .idea/*
+/inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
+/qa-bot-llm.iml
+/vcs.xml

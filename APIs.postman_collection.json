@@ -1,0 +1,104 @@
+{
+	"info": {
+		"_postman_id": "9118e77e-c127-4c86-b287-2851d912b46d",
+		"name": "APIs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "request to send doc and qa file",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "doc_file",
+							"type": "file",
+							"src": "/home/archit/Documents/workspace/llm/qa-bot-llm/app/data/sample.json"
+						},
+						{
+							"key": "question_file",
+							"type": "file",
+							"src": "/home/archit/Documents/workspace/llm/qa-bot-llm/app/data/questions.json"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:5000/upload",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"upload"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "response",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "doc_file",
+									"type": "file",
+									"src": "/home/archit/Documents/workspace/llm/qa-bot-llm/app/data/sample.json"
+								},
+								{
+									"key": "question_file",
+									"type": "file",
+									"src": "/home/archit/Documents/workspace/llm/qa-bot-llm/app/data/questions.json"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://localhost:5000/upload",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"upload"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Server",
+							"value": "Werkzeug/3.0.1 Python/3.9.17"
+						},
+						{
+							"key": "Date",
+							"value": "Sat, 23 Dec 2023 17:59:31 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "Content-Length",
+							"value": "601"
+						},
+						{
+							"key": "Connection",
+							"value": "close"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"Is personal information transmitted, processed, stored, or disclosed to or retained by third parties\": \"Based on the given context, there is no specific information provided regarding the transmission, processing, storage, disclosure, or retention of personal information by third parties. Therefore, I don't have enough information to answer this question.\",\n    \"Which cloud providers do you rely on,?\": \"I don't have enough information to answer that question.\",\n    \"does customer has network diagram?\": \"Yes, the company has a Network Diagram showing firewalls in place to separate networks.\"\n}"
+				}
+			]
+		}
+	]
+}
